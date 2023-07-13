@@ -11,7 +11,7 @@ def train_experts(labels_dir="data/labels", model_out_fn="models/chromactivity.m
 
 
 def generate_tracks(
-    model_fn="models/chromscore.model",
+    model_fn="models/chromactivity.model",
     cell_types=None,
     combined_bigwigs_out_dir="tracks",
     coords_bed_fn=None,

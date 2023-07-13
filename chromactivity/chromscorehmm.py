@@ -79,7 +79,7 @@ def chromhmm_learn_model(
     numseq=128,
     maxprocessors=4,
     lowmem=True,
-    chromhmm_path="vendored/ChromHMM.jar",
+    chromhmm_path="vendored/ChromHMM/ChromHMM.jar",
 ):
     params_ = [f"-b {binsize}"]
     if numseq is not None:

@@ -21,10 +21,14 @@ ChromActivity manages its dependencies using the `conda` package manager. [Mamba
 # Download ChromActivity from repository
 git clone --depth 1 https://github.com/ernstlab/chromactivity
 
-# Environment setup
+# Set up conda environment
 cd chromactivity
 conda env create -f environment.yml
 conda activate chromactivity_env
+
+# Download and extract ChromHMM
+wget -N -P vendored https://ernstlab.biolchem.ucla.edu/ChromHMM/ChromHMM.zip
+unzip -o vendored/ChromHMM.zip -d vendored
 ```
 
 ## Raw data directories
@@ -63,5 +67,5 @@ chromactivity train_chromscorehmm --num_states 15 --track_dir "tracks/" --out-di
 
 ## External resources
 
-- `vendored/ChromHMM.jar`: https://ernstlab.biolchem.ucla.edu/ChromHMM
+- `vendored/ChromHMM/ChromHMM.jar`: https://ernstlab.biolchem.ucla.edu/ChromHMM
 - `data/external/hg19.chrom.sizes`: https://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.chrom.sizes
