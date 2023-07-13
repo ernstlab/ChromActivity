@@ -1,0 +1,16 @@
+[build-system]
+    requires = ["setuptools>=64", "wheel"]
+    build-backend = "setuptools.build_meta"
+
+[project]
+    name = "chromactivity"
+    version = "1.0"
+
+[project.scripts]
+    chromactivity = "chromactivity.cli:main"
+
+[tool.setuptools]
+    py-modules = ["chromactivity"]
+
+[tool.ruff]
+    ignore = ['E741', 'E501']
