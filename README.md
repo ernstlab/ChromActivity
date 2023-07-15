@@ -10,9 +10,6 @@ We generate three types of annotations:
 
 <img src="./docs/F1_gh.svg" style="width:100%; max-width:900px">
 
-## Precomputed annotations
-Precomputed annotations are available at: https://ucla.box.com/v/chromactivity
-
 ## Getting started
 ChromActivity manages its dependencies using the `conda` package manager. [Mambaforge](https://github.com/conda-forge/miniforge#mambaforge) is the recommended distribution for installing `conda`. 
 
