@@ -10,6 +10,11 @@ We generate three types of annotations:
 
 <img src="./docs/F1_gh.svg" style="width:100%; max-width:900px">
 
+## Precomputed annotations
+Precomputed annotations are available to download at: https://ucla.box.com/v/chromactivity
+
+View annotations on the UCSC Genome Browser: [session link](https://genome.ucsc.edu/cgi-bin/hgTracks?hgS_doLoadUrl=submit&hgS_loadUrlName=https://public.hoffman2.idre.ucla.edu/ernst/WFZ6G/hubs/chromactivity_hub/chromactivity_session.txt), [track hub link](https://public.hoffman2.idre.ucla.edu/ernst/WFZ6G/hubs/chromactivity_hub/chromactivity_hub.hub.txt)
+
 ## Getting started
 ChromActivity manages its dependencies using the `conda` package manager. [Mambaforge](https://github.com/conda-forge/miniforge#mambaforge) is the recommended distribution for installing `conda`. 
 
