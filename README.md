@@ -8,7 +8,7 @@ We generate three types of annotations:
 - **ChromScoreHMM annotations:** Cell type specific genome annotations based on the combinatorial and spatial patterns within the expert predictions
 - **ChromScore tracks:** Genomewide, cell type specific ensemble regulatory activity prediction tracks. Provides a numerical score for each 25 bp interval in the genome
 
-<img src="./docs/F1_gh.svg" style="width:100%; max-width:900px">
+<img src="./docs/F1_gh.png" style="width:100%; max-width:900px">
 
 ## Precomputed annotations
 Precomputed annotations are available to download at: https://ucla.box.com/v/chromactivity
