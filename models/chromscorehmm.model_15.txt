@@ -1,0 +1,571 @@
+15	11	E	-2.1677537426956388E8	200
+probinit	1	0.0013333344055505086
+probinit	2	0.001333336097975679
+probinit	3	0.0013333360440295897
+probinit	4	0.9813332803131519
+probinit	5	0.0013333342966838095
+probinit	6	0.0013333397884790937
+probinit	7	0.0013333390192534187
+probinit	8	0.0013333364725761627
+probinit	9	0.0013333353466141824
+probinit	10	0.0013333411676238593
+probinit	11	0.0013333385307159665
+probinit	12	0.001333335133379083
+probinit	13	0.0013333408494789036
+probinit	14	0.0013333362016139793
+probinit	15	0.001333336332873881
+transitionprobs	1	1	0.8927572015682813
+transitionprobs	1	2	0.017774104931622608
+transitionprobs	1	3	9.774614567844321E-4
+transitionprobs	1	4	0.07791423481487747
+transitionprobs	1	5	0.002015354650875995
+transitionprobs	1	6	6.674356106181128E-4
+transitionprobs	1	7	1.0390089570892674E-4
+transitionprobs	1	8	0.0019799266764176666
+transitionprobs	1	9	4.1431262379807186E-4
+transitionprobs	1	10	9.223609765100123E-5
+transitionprobs	1	11	2.006988644561967E-4
+transitionprobs	1	12	4.0114422931493985E-4
+transitionprobs	1	13	1.394526734730741E-4
+transitionprobs	1	14	0.001258124775905609
+transitionprobs	1	15	0.0033044101302146674
+transitionprobs	2	1	0.06790640363637
+transitionprobs	2	2	0.8688064002629459
+transitionprobs	2	3	0.028676343799831628
+transitionprobs	2	4	0.014465810468045424
+transitionprobs	2	5	0.00281213463022461
+transitionprobs	2	6	0.004142835515285388
+transitionprobs	2	7	7.665281325622323E-5
+transitionprobs	2	8	0.0012245074394169905
+transitionprobs	2	9	4.261506463562031E-4
+transitionprobs	2	10	1.7994669246019989E-4
+transitionprobs	2	11	4.574386567958681E-5
+transitionprobs	2	12	3.2408325141510474E-4
+transitionprobs	2	13	0.007545264027268629
+transitionprobs	2	14	7.273410620377877E-4
+transitionprobs	2	15	0.002640381889406475
+transitionprobs	3	1	0.0013222487283339644
+transitionprobs	3	2	0.010968680259028009
+transitionprobs	3	3	0.880683519665728
+transitionprobs	3	4	0.06990251487672215
+transitionprobs	3	5	0.001251043833422008
+transitionprobs	3	6	0.003793253003665534
+transitionprobs	3	7	7.218552991561502E-4
+transitionprobs	3	8	0.002898864359526968
+transitionprobs	3	9	0.0013774384847269725
+transitionprobs	3	10	2.4933138821542475E-4
+transitionprobs	3	11	2.4018395442991267E-4
+transitionprobs	3	12	0.001966487501518038
+transitionprobs	3	13	0.015659147505552706
+transitionprobs	3	14	0.005535518151154457
+transitionprobs	3	15	0.0034299129888197156
+transitionprobs	4	1	0.0011428985920683109
+transitionprobs	4	2	7.608518602001419E-5
+transitionprobs	4	3	7.35214768575355E-4
+transitionprobs	4	4	0.9935732548892129
+transitionprobs	4	5	0.001463184201397218
+transitionprobs	4	6	2.4374245294918198E-5
+transitionprobs	4	7	1.341514713541418E-4
+transitionprobs	4	8	5.205016301159495E-4
+transitionprobs	4	9	1.5291357023109053E-4
+transitionprobs	4	10	9.94216904420183E-6
+transitionprobs	4	11	1.6506505015230556E-4
+transitionprobs	4	12	0.0011270577267917129
+transitionprobs	4	13	7.3714109511857525E-6
+transitionprobs	4	14	3.875967965719265E-4
+transitionprobs	4	15	4.803882922185515E-4
+transitionprobs	5	1	0.0011504010770951591
+transitionprobs	5	2	4.1031993221468297E-4
+transitionprobs	5	3	8.384130106183928E-4
+transitionprobs	5	4	0.12360069714319012
+transitionprobs	5	5	0.8488139036648471
+transitionprobs	5	6	0.003488423318184059
+transitionprobs	5	7	0.012866839111887685
+transitionprobs	5	8	0.002976763794305844
+transitionprobs	5	9	7.907106946362361E-4
+transitionprobs	5	10	5.3576842877827996E-5
+transitionprobs	5	11	3.5710375383897074E-4
+transitionprobs	5	12	0.0024231847522636365
+transitionprobs	5	13	3.011250712922942E-6
+transitionprobs	5	14	0.0010421256382546111
+transitionprobs	5	15	0.0011845260150727007
+transitionprobs	6	1	0.0019806117030442844
+transitionprobs	6	2	0.0028504986695099214
+transitionprobs	6	3	0.006967389158388379
+transitionprobs	6	4	0.006206835874388708
+transitionprobs	6	5	0.01395850250261598
+transitionprobs	6	6	0.869983989853779
+transitionprobs	6	7	0.031286363522766605
+transitionprobs	6	8	0.0031902209938444335
+transitionprobs	6	9	0.006985646238476604
+transitionprobs	6	10	0.028346644287876137
+transitionprobs	6	11	0.008963826252661514
+transitionprobs	6	12	0.0020658362271217907
+transitionprobs	6	13	0.0017652034486243375
+transitionprobs	6	14	0.0032157636257041885
+transitionprobs	6	15	0.012232667641198257
+transitionprobs	7	1	1.0035380715028478E-4
+transitionprobs	7	2	4.200838797229563E-5
+transitionprobs	7	3	7.795019615134813E-4
+transitionprobs	7	4	0.012424946194787803
+transitionprobs	7	5	0.019610169848007966
+transitionprobs	7	6	0.01339296271547182
+transitionprobs	7	7	0.9076723112462556
+transitionprobs	7	8	0.022114093602661335
+transitionprobs	7	9	0.0022443375522051786
+transitionprobs	7	10	5.126887715010962E-4
+transitionprobs	7	11	0.01989119468495665
+transitionprobs	7	12	2.660271551323065E-4
+transitionprobs	7	13	2.0591714414411855E-5
+transitionprobs	7	14	8.635776365365106E-4
+transitionprobs	7	15	6.523472143331336E-5
+transitionprobs	8	1	0.001958797598278585
+transitionprobs	8	2	3.3018363959609674E-4
+transitionprobs	8	3	0.004562343476679079
+transitionprobs	8	4	0.06930070123756181
+transitionprobs	8	5	0.0042060485337147855
+transitionprobs	8	6	0.004019826329925956
+transitionprobs	8	7	0.029860137098489687
+transitionprobs	8	8	0.850192365030188
+transitionprobs	8	9	0.0032932032568659224
+transitionprobs	8	10	6.796355758568014E-4
+transitionprobs	8	11	0.01830379293777825
+transitionprobs	8	12	0.004579413344932219
+transitionprobs	8	13	2.7256444086481947E-4
+transitionprobs	8	14	9.455842773267893E-4
+transitionprobs	8	15	0.0074954032219410145
+transitionprobs	9	1	0.0035851497008632326
+transitionprobs	9	2	0.0010151201434111079
+transitionprobs	9	3	0.004720572606076786
+transitionprobs	9	4	0.0889994290535156
+transitionprobs	9	5	0.01701143003893695
+transitionprobs	9	6	0.0035447778440780837
+transitionprobs	9	7	0.0019567639927625096
+transitionprobs	9	8	0.005505821601331139
+transitionprobs	9	9	0.796813895145399
+transitionprobs	9	10	0.0022849678187758793
+transitionprobs	9	11	0.008431276077082965
+transitionprobs	9	12	0.007584107180266511
+transitionprobs	9	13	0.0011628053497559476
+transitionprobs	9	14	0.011910976507574386
+transitionprobs	9	15	0.045472906940169915
+transitionprobs	10	1	2.2899430727639766E-4
+transitionprobs	10	2	5.587366793177409E-5
+transitionprobs	10	3	1.6070806680837661E-4
+transitionprobs	10	4	0.0013713776670326817
+transitionprobs	10	5	8.72504783893455E-5
+transitionprobs	10	6	0.021781003951537273
+transitionprobs	10	7	4.507613791254744E-4
+transitionprobs	10	8	3.7111434529894896E-4
+transitionprobs	10	9	0.0022481954346283183
+transitionprobs	10	10	0.870682911587356
+transitionprobs	10	11	0.05504544187067544
+transitionprobs	10	12	0.00888801126419474
+transitionprobs	10	13	0.026686992114818432
+transitionprobs	10	14	0.002824103772991094
+transitionprobs	10	15	0.00911726009193571
+transitionprobs	11	1	3.1491755315970446E-4
+transitionprobs	11	2	1.918519112799405E-5
+transitionprobs	11	3	2.9128674918420364E-4
+transitionprobs	11	4	0.019382398893187467
+transitionprobs	11	5	1.9014731899363199E-4
+transitionprobs	11	6	0.00648534423458571
+transitionprobs	11	7	0.024479544530451126
+transitionprobs	11	8	0.014305403697935497
+transitionprobs	11	9	0.006051259810882909
+transitionprobs	11	10	0.05474323247721017
+transitionprobs	11	11	0.7941024608797819
+transitionprobs	11	12	0.051587995659327965
+transitionprobs	11	13	0.007452046360404748
+transitionprobs	11	14	0.01810050662325726
+transitionprobs	11	15	0.0024942700205094867
+transitionprobs	12	1	9.581889783211393E-4
+transitionprobs	12	2	2.7134152186347765E-4
+transitionprobs	12	3	0.0033715095070756176
+transitionprobs	12	4	0.18155162556790352
+transitionprobs	12	5	0.003386309372781678
+transitionprobs	12	6	0.002163090761737619
+transitionprobs	12	7	5.284185410446552E-4
+transitionprobs	12	8	0.004328614709754365
+transitionprobs	12	9	0.00445097618627008
+transitionprobs	12	10	0.007543163220974662
+transitionprobs	12	11	0.05589516984017576
+transitionprobs	12	12	0.7255103587496802
+transitionprobs	12	13	0.0025609621705896144
+transitionprobs	12	14	0.0030983352323675248
+transitionprobs	12	15	0.004381935639460061
+transitionprobs	13	1	4.306644506280268E-4
+transitionprobs	13	2	0.006492282881092626
+transitionprobs	13	3	0.034871458002502555
+transitionprobs	13	4	0.00145024680122811
+transitionprobs	13	5	6.390206682417493E-6
+transitionprobs	13	6	0.0028674776213305306
+transitionprobs	13	7	2.010199312748552E-5
+transitionprobs	13	8	1.9799578541041617E-4
+transitionprobs	13	9	0.0017594744414076904
+transitionprobs	13	10	0.05109937170942646
+transitionprobs	13	11	0.011921204515626773
+transitionprobs	13	12	0.00343831632667368
+transitionprobs	13	13	0.8735662311818821
+transitionprobs	13	14	0.009320059199232738
+transitionprobs	13	15	0.0025587248837484803
+transitionprobs	14	1	0.0044137588196938035
+transitionprobs	14	2	8.697588330798973E-4
+transitionprobs	14	3	0.014366828467774727
+transitionprobs	14	4	0.1002454386704023
+transitionprobs	14	5	0.003214445784306751
+transitionprobs	14	6	0.004377852984236867
+transitionprobs	14	7	0.002440995041922488
+transitionprobs	14	8	0.0019046536387886147
+transitionprobs	14	9	0.010897626610108308
+transitionprobs	14	10	0.007052688841265717
+transitionprobs	14	11	0.04441037762722158
+transitionprobs	14	12	0.004122710933203706
+transitionprobs	14	13	0.011679519580629297
+transitionprobs	14	14	0.778073703239119
+transitionprobs	14	15	0.011929640928246959
+transitionprobs	15	1	0.0049953650091716754
+transitionprobs	15	2	0.0011660463537554405
+transitionprobs	15	3	0.0033564921379591137
+transitionprobs	15	4	0.047388286926554404
+transitionprobs	15	5	0.0022993306974206213
+transitionprobs	15	6	0.00751932751729968
+transitionprobs	15	7	5.9223692766030236E-5
+transitionprobs	15	8	0.005769044293896786
+transitionprobs	15	9	0.0156876936380738
+transitionprobs	15	10	0.006243662329444128
+transitionprobs	15	11	0.0017441477747106202
+transitionprobs	15	12	0.002575253511326929
+transitionprobs	15	13	9.296881636360311E-4
+transitionprobs	15	14	0.004044408832652282
+transitionprobs	15	15	0.8962220291213323
+emissionprobs	1	0	crispr-k562-fulco	0	0.9959834721410303
+emissionprobs	1	0	crispr-k562-fulco	1	0.0040165278589696625
+emissionprobs	1	1	crispr-k562-gasperini_pval	0	0.02356459519953713
+emissionprobs	1	1	crispr-k562-gasperini_pval	1	0.9764354048004629
+emissionprobs	1	2	mpra-hepg2-ernst	0	0.9995607376817994
+emissionprobs	1	2	mpra-hepg2-ernst	1	4.392623182005237E-4
+emissionprobs	1	3	mpra-hepg2-kheradpour_pval	0	0.9810608587137766
+emissionprobs	1	3	mpra-hepg2-kheradpour_pval	1	0.018939141286223465
+emissionprobs	1	4	mpra-k562-ernst	0	0.9964536183270307
+emissionprobs	1	4	mpra-k562-ernst	1	0.0035463816729692354
+emissionprobs	1	5	mpra-k562-kheradpour_pval	0	0.9875031528150426
+emissionprobs	1	5	mpra-k562-kheradpour_pval	1	0.012496847184957447
+emissionprobs	1	6	starr-a549-white	0	0.9992552618271486
+emissionprobs	1	6	starr-a549-white	1	7.447381728513945E-4
+emissionprobs	1	7	starr-gm-wang	0	0.9972301892672497
+emissionprobs	1	7	starr-gm-wang	1	0.0027698107327502964
+emissionprobs	1	8	starr-helaS3-muerdter	0	0.9996944908182572
+emissionprobs	1	8	starr-helaS3-muerdter	1	3.05509181742703E-4
+emissionprobs	1	9	starr-hepg2-white	0	0.9964059797159887
+emissionprobs	1	9	starr-hepg2-white	1	0.003594020284011394
+emissionprobs	1	10	starr-k562-white	0	0.9998310121269648
+emissionprobs	1	10	starr-k562-white	1	1.6898787303511377E-4
+emissionprobs	2	0	crispr-k562-fulco	0	0.017970722191354236
+emissionprobs	2	0	crispr-k562-fulco	1	0.9820292778086457
+emissionprobs	2	1	crispr-k562-gasperini_pval	0	0.00598429924416469
+emissionprobs	2	1	crispr-k562-gasperini_pval	1	0.9940157007558352
+emissionprobs	2	2	mpra-hepg2-ernst	0	0.9918028543240447
+emissionprobs	2	2	mpra-hepg2-ernst	1	0.00819714567595528
+emissionprobs	2	3	mpra-hepg2-kheradpour_pval	0	0.9241379180749592
+emissionprobs	2	3	mpra-hepg2-kheradpour_pval	1	0.0758620819250409
+emissionprobs	2	4	mpra-k562-ernst	0	0.9519222152740179
+emissionprobs	2	4	mpra-k562-ernst	1	0.048077784725982196
+emissionprobs	2	5	mpra-k562-kheradpour_pval	0	0.8972606192245851
+emissionprobs	2	5	mpra-k562-kheradpour_pval	1	0.1027393807754148
+emissionprobs	2	6	starr-a549-white	0	0.9964236820545893
+emissionprobs	2	6	starr-a549-white	1	0.0035763179454106637
+emissionprobs	2	7	starr-gm-wang	0	0.9842744633113197
+emissionprobs	2	7	starr-gm-wang	1	0.015725536688680253
+emissionprobs	2	8	starr-helaS3-muerdter	0	0.9619734385819523
+emissionprobs	2	8	starr-helaS3-muerdter	1	0.0380265614180476
+emissionprobs	2	9	starr-hepg2-white	0	0.9984451252842478
+emissionprobs	2	9	starr-hepg2-white	1	0.0015548747157522857
+emissionprobs	2	10	starr-k562-white	0	0.9913177977334143
+emissionprobs	2	10	starr-k562-white	1	0.008682202266585627
+emissionprobs	3	0	crispr-k562-fulco	0	0.045072010017322896
+emissionprobs	3	0	crispr-k562-fulco	1	0.954927989982677
+emissionprobs	3	1	crispr-k562-gasperini_pval	0	0.9981814764557118
+emissionprobs	3	1	crispr-k562-gasperini_pval	1	0.0018185235442882283
+emissionprobs	3	2	mpra-hepg2-ernst	0	0.9912651234334698
+emissionprobs	3	2	mpra-hepg2-ernst	1	0.00873487656653016
+emissionprobs	3	3	mpra-hepg2-kheradpour_pval	0	0.9470664716450932
+emissionprobs	3	3	mpra-hepg2-kheradpour_pval	1	0.052933528354906785
+emissionprobs	3	4	mpra-k562-ernst	0	0.9751296716934958
+emissionprobs	3	4	mpra-k562-ernst	1	0.024870328306504114
+emissionprobs	3	5	mpra-k562-kheradpour_pval	0	0.9638977762892877
+emissionprobs	3	5	mpra-k562-kheradpour_pval	1	0.036102223710712256
+emissionprobs	3	6	starr-a549-white	0	0.9980919408238227
+emissionprobs	3	6	starr-a549-white	1	0.0019080591761772956
+emissionprobs	3	7	starr-gm-wang	0	0.9872890852835358
+emissionprobs	3	7	starr-gm-wang	1	0.012710914716464308
+emissionprobs	3	8	starr-helaS3-muerdter	0	0.9243095900596744
+emissionprobs	3	8	starr-helaS3-muerdter	1	0.07569040994032561
+emissionprobs	3	9	starr-hepg2-white	0	0.9978312573922288
+emissionprobs	3	9	starr-hepg2-white	1	0.0021687426077712114
+emissionprobs	3	10	starr-k562-white	0	0.9692202764860123
+emissionprobs	3	10	starr-k562-white	1	0.030779723513987712
+emissionprobs	4	0	crispr-k562-fulco	0	0.9998796299586729
+emissionprobs	4	0	crispr-k562-fulco	1	1.203700413271496E-4
+emissionprobs	4	1	crispr-k562-gasperini_pval	0	0.9999818337610181
+emissionprobs	4	1	crispr-k562-gasperini_pval	1	1.8166238981869337E-5
+emissionprobs	4	2	mpra-hepg2-ernst	0	0.9999800776792381
+emissionprobs	4	2	mpra-hepg2-ernst	1	1.9922320761852338E-5
+emissionprobs	4	3	mpra-hepg2-kheradpour_pval	0	0.9999338674177882
+emissionprobs	4	3	mpra-hepg2-kheradpour_pval	1	6.613258221175169E-5
+emissionprobs	4	4	mpra-k562-ernst	0	0.9999300263479746
+emissionprobs	4	4	mpra-k562-ernst	1	6.997365202544601E-5
+emissionprobs	4	5	mpra-k562-kheradpour_pval	0	0.9999124301862299
+emissionprobs	4	5	mpra-k562-kheradpour_pval	1	8.756981377016474E-5
+emissionprobs	4	6	starr-a549-white	0	0.9999999999991875
+emissionprobs	4	6	starr-a549-white	1	8.124772287504223E-13
+emissionprobs	4	7	starr-gm-wang	0	0.9999856189717762
+emissionprobs	4	7	starr-gm-wang	1	1.438102822385912E-5
+emissionprobs	4	8	starr-helaS3-muerdter	0	0.9999686487111273
+emissionprobs	4	8	starr-helaS3-muerdter	1	3.1351288872745953E-5
+emissionprobs	4	9	starr-hepg2-white	0	0.9999715593181675
+emissionprobs	4	9	starr-hepg2-white	1	2.844068183240625E-5
+emissionprobs	4	10	starr-k562-white	0	0.9999366107278472
+emissionprobs	4	10	starr-k562-white	1	6.338927215268857E-5
+emissionprobs	5	0	crispr-k562-fulco	0	0.9987135198675249
+emissionprobs	5	0	crispr-k562-fulco	1	0.0012864801324750275
+emissionprobs	5	1	crispr-k562-gasperini_pval	0	0.999340082073131
+emissionprobs	5	1	crispr-k562-gasperini_pval	1	6.599179268690455E-4
+emissionprobs	5	2	mpra-hepg2-ernst	0	0.9966531458029674
+emissionprobs	5	2	mpra-hepg2-ernst	1	0.0033468541970327233
+emissionprobs	5	3	mpra-hepg2-kheradpour_pval	0	0.9723514965271659
+emissionprobs	5	3	mpra-hepg2-kheradpour_pval	1	0.027648503472834044
+emissionprobs	5	4	mpra-k562-ernst	0	0.9881154840054845
+emissionprobs	5	4	mpra-k562-ernst	1	0.011884515994515418
+emissionprobs	5	5	mpra-k562-kheradpour_pval	0	0.057164322773100656
+emissionprobs	5	5	mpra-k562-kheradpour_pval	1	0.9428356772268993
+emissionprobs	5	6	starr-a549-white	0	0.9967827490275042
+emissionprobs	5	6	starr-a549-white	1	0.003217250972495818
+emissionprobs	5	7	starr-gm-wang	0	0.9987885084058215
+emissionprobs	5	7	starr-gm-wang	1	0.0012114915941784873
+emissionprobs	5	8	starr-helaS3-muerdter	0	0.9993316819834097
+emissionprobs	5	8	starr-helaS3-muerdter	1	6.683180165903194E-4
+emissionprobs	5	9	starr-hepg2-white	0	0.9998056015385101
+emissionprobs	5	9	starr-hepg2-white	1	1.9439846148992633E-4
+emissionprobs	5	10	starr-k562-white	0	0.9989605851177671
+emissionprobs	5	10	starr-k562-white	1	0.0010394148822329007
+emissionprobs	6	0	crispr-k562-fulco	0	0.7147217299103062
+emissionprobs	6	0	crispr-k562-fulco	1	0.28527827008969386
+emissionprobs	6	1	crispr-k562-gasperini_pval	0	0.8388692004500997
+emissionprobs	6	1	crispr-k562-gasperini_pval	1	0.16113079954990026
+emissionprobs	6	2	mpra-hepg2-ernst	0	0.2440792667645276
+emissionprobs	6	2	mpra-hepg2-ernst	1	0.7559207332354725
+emissionprobs	6	3	mpra-hepg2-kheradpour_pval	0	0.7429883936258597
+emissionprobs	6	3	mpra-hepg2-kheradpour_pval	1	0.25701160637414033
+emissionprobs	6	4	mpra-k562-ernst	0	0.2877543322160683
+emissionprobs	6	4	mpra-k562-ernst	1	0.7122456677839316
+emissionprobs	6	5	mpra-k562-kheradpour_pval	0	0.2925805874190034
+emissionprobs	6	5	mpra-k562-kheradpour_pval	1	0.7074194125809966
+emissionprobs	6	6	starr-a549-white	0	0.7410478774934282
+emissionprobs	6	6	starr-a549-white	1	0.25895212250657185
+emissionprobs	6	7	starr-gm-wang	0	0.232042868683413
+emissionprobs	6	7	starr-gm-wang	1	0.7679571313165869
+emissionprobs	6	8	starr-helaS3-muerdter	0	0.8048040581611507
+emissionprobs	6	8	starr-helaS3-muerdter	1	0.19519594183884925
+emissionprobs	6	9	starr-hepg2-white	0	0.9166218740166425
+emissionprobs	6	9	starr-hepg2-white	1	0.08337812598335737
+emissionprobs	6	10	starr-k562-white	0	0.8742367810031824
+emissionprobs	6	10	starr-k562-white	1	0.12576321899681764
+emissionprobs	7	0	crispr-k562-fulco	0	0.9978941410296536
+emissionprobs	7	0	crispr-k562-fulco	1	0.002105858970346378
+emissionprobs	7	1	crispr-k562-gasperini_pval	0	0.9996718241341992
+emissionprobs	7	1	crispr-k562-gasperini_pval	1	3.281758658007882E-4
+emissionprobs	7	2	mpra-hepg2-ernst	0	0.750636655235482
+emissionprobs	7	2	mpra-hepg2-ernst	1	0.24936334476451807
+emissionprobs	7	3	mpra-hepg2-kheradpour_pval	0	0.5114183573929976
+emissionprobs	7	3	mpra-hepg2-kheradpour_pval	1	0.4885816426070024
+emissionprobs	7	4	mpra-k562-ernst	0	0.9993242763678318
+emissionprobs	7	4	mpra-k562-ernst	1	6.757236321682221E-4
+emissionprobs	7	5	mpra-k562-kheradpour_pval	0	0.661893015112604
+emissionprobs	7	5	mpra-k562-kheradpour_pval	1	0.338106984887396
+emissionprobs	7	6	starr-a549-white	0	0.9175757883376073
+emissionprobs	7	6	starr-a549-white	1	0.08242421166239265
+emissionprobs	7	7	starr-gm-wang	0	0.004623843727896254
+emissionprobs	7	7	starr-gm-wang	1	0.9953761562721037
+emissionprobs	7	8	starr-helaS3-muerdter	0	0.9947861321596048
+emissionprobs	7	8	starr-helaS3-muerdter	1	0.005213867840395127
+emissionprobs	7	9	starr-hepg2-white	0	0.9770823207018466
+emissionprobs	7	9	starr-hepg2-white	1	0.022917679298153304
+emissionprobs	7	10	starr-k562-white	0	0.9917845835179726
+emissionprobs	7	10	starr-k562-white	1	0.008215416482027366
+emissionprobs	8	0	crispr-k562-fulco	0	0.9927316921709519
+emissionprobs	8	0	crispr-k562-fulco	1	0.007268307829047976
+emissionprobs	8	1	crispr-k562-gasperini_pval	0	0.9954662897168878
+emissionprobs	8	1	crispr-k562-gasperini_pval	1	0.004533710283112185
+emissionprobs	8	2	mpra-hepg2-ernst	0	0.9964704336510016
+emissionprobs	8	2	mpra-hepg2-ernst	1	0.003529566348998488
+emissionprobs	8	3	mpra-hepg2-kheradpour_pval	0	0.043957441890595084
+emissionprobs	8	3	mpra-hepg2-kheradpour_pval	1	0.9560425581094049
+emissionprobs	8	4	mpra-k562-ernst	0	0.995493618917576
+emissionprobs	8	4	mpra-k562-ernst	1	0.0045063810824240115
+emissionprobs	8	5	mpra-k562-kheradpour_pval	0	0.9882665607795211
+emissionprobs	8	5	mpra-k562-kheradpour_pval	1	0.011733439220478942
+emissionprobs	8	6	starr-a549-white	0	0.957064657167695
+emissionprobs	8	6	starr-a549-white	1	0.04293534283230497
+emissionprobs	8	7	starr-gm-wang	0	0.996827805130094
+emissionprobs	8	7	starr-gm-wang	1	0.003172194869906093
+emissionprobs	8	8	starr-helaS3-muerdter	0	0.9988398963620361
+emissionprobs	8	8	starr-helaS3-muerdter	1	0.0011601036379638738
+emissionprobs	8	9	starr-hepg2-white	0	0.9790743487905667
+emissionprobs	8	9	starr-hepg2-white	1	0.020925651209433304
+emissionprobs	8	10	starr-k562-white	0	0.9866359446659554
+emissionprobs	8	10	starr-k562-white	1	0.013364055334044507
+emissionprobs	9	0	crispr-k562-fulco	0	0.9634805202823354
+emissionprobs	9	0	crispr-k562-fulco	1	0.03651947971766456
+emissionprobs	9	1	crispr-k562-gasperini_pval	0	0.9790519704085017
+emissionprobs	9	1	crispr-k562-gasperini_pval	1	0.020948029591498368
+emissionprobs	9	2	mpra-hepg2-ernst	0	0.06090102056124662
+emissionprobs	9	2	mpra-hepg2-ernst	1	0.9390989794387534
+emissionprobs	9	3	mpra-hepg2-kheradpour_pval	0	0.8522297268616075
+emissionprobs	9	3	mpra-hepg2-kheradpour_pval	1	0.14777027313839253
+emissionprobs	9	4	mpra-k562-ernst	0	0.9587579671215479
+emissionprobs	9	4	mpra-k562-ernst	1	0.04124203287845203
+emissionprobs	9	5	mpra-k562-kheradpour_pval	0	0.9087450294057349
+emissionprobs	9	5	mpra-k562-kheradpour_pval	1	0.09125497059426516
+emissionprobs	9	6	starr-a549-white	0	0.906969819840767
+emissionprobs	9	6	starr-a549-white	1	0.09303018015923299
+emissionprobs	9	7	starr-gm-wang	0	0.9960328035418708
+emissionprobs	9	7	starr-gm-wang	1	0.003967196458129114
+emissionprobs	9	8	starr-helaS3-muerdter	0	0.7825709790996885
+emissionprobs	9	8	starr-helaS3-muerdter	1	0.21742902090031152
+emissionprobs	9	9	starr-hepg2-white	0	0.9753714276879887
+emissionprobs	9	9	starr-hepg2-white	1	0.024628572312011297
+emissionprobs	9	10	starr-k562-white	0	0.9593017934126296
+emissionprobs	9	10	starr-k562-white	1	0.040698206587370445
+emissionprobs	10	0	crispr-k562-fulco	0	0.6632990647240279
+emissionprobs	10	0	crispr-k562-fulco	1	0.33670093527597217
+emissionprobs	10	1	crispr-k562-gasperini_pval	0	0.8924215110124263
+emissionprobs	10	1	crispr-k562-gasperini_pval	1	0.10757848898757376
+emissionprobs	10	2	mpra-hepg2-ernst	0	0.014454433729107959
+emissionprobs	10	2	mpra-hepg2-ernst	1	0.9855455662708921
+emissionprobs	10	3	mpra-hepg2-kheradpour_pval	0	0.464973122981032
+emissionprobs	10	3	mpra-hepg2-kheradpour_pval	1	0.5350268770189681
+emissionprobs	10	4	mpra-k562-ernst	0	0.03969686220169742
+emissionprobs	10	4	mpra-k562-ernst	1	0.9603031377983027
+emissionprobs	10	5	mpra-k562-kheradpour_pval	0	0.7059333057485774
+emissionprobs	10	5	mpra-k562-kheradpour_pval	1	0.29406669425142257
+emissionprobs	10	6	starr-a549-white	0	0.07220314765127107
+emissionprobs	10	6	starr-a549-white	1	0.927796852348729
+emissionprobs	10	7	starr-gm-wang	0	0.25633421586552096
+emissionprobs	10	7	starr-gm-wang	1	0.743665784134479
+emissionprobs	10	8	starr-helaS3-muerdter	0	0.13469854377453452
+emissionprobs	10	8	starr-helaS3-muerdter	1	0.8653014562254654
+emissionprobs	10	9	starr-hepg2-white	0	0.021954251531403797
+emissionprobs	10	9	starr-hepg2-white	1	0.9780457484685963
+emissionprobs	10	10	starr-k562-white	0	0.05288303221527511
+emissionprobs	10	10	starr-k562-white	1	0.9471169677847249
+emissionprobs	11	0	crispr-k562-fulco	0	0.999163936378665
+emissionprobs	11	0	crispr-k562-fulco	1	8.360636213351108E-4
+emissionprobs	11	1	crispr-k562-gasperini_pval	0	0.9837155980797058
+emissionprobs	11	1	crispr-k562-gasperini_pval	1	0.01628440192029424
+emissionprobs	11	2	mpra-hepg2-ernst	0	0.7375164224616831
+emissionprobs	11	2	mpra-hepg2-ernst	1	0.26248357753831686
+emissionprobs	11	3	mpra-hepg2-kheradpour_pval	0	0.6983673358106213
+emissionprobs	11	3	mpra-hepg2-kheradpour_pval	1	0.30163266418937884
+emissionprobs	11	4	mpra-k562-ernst	0	0.9217108569404869
+emissionprobs	11	4	mpra-k562-ernst	1	0.07828914305951311
+emissionprobs	11	5	mpra-k562-kheradpour_pval	0	0.9927720771713305
+emissionprobs	11	5	mpra-k562-kheradpour_pval	1	0.007227922828669418
+emissionprobs	11	6	starr-a549-white	0	0.060527040244026324
+emissionprobs	11	6	starr-a549-white	1	0.9394729597559738
+emissionprobs	11	7	starr-gm-wang	0	0.6146296251412308
+emissionprobs	11	7	starr-gm-wang	1	0.3853703748587692
+emissionprobs	11	8	starr-helaS3-muerdter	0	0.30652664096105836
+emissionprobs	11	8	starr-helaS3-muerdter	1	0.6934733590389416
+emissionprobs	11	9	starr-hepg2-white	0	0.030846567329588313
+emissionprobs	11	9	starr-hepg2-white	1	0.9691534326704117
+emissionprobs	11	10	starr-k562-white	0	0.14904168602510487
+emissionprobs	11	10	starr-k562-white	1	0.8509583139748951
+emissionprobs	12	0	crispr-k562-fulco	0	0.9982024907865893
+emissionprobs	12	0	crispr-k562-fulco	1	0.0017975092134106996
+emissionprobs	12	1	crispr-k562-gasperini_pval	0	0.9960119319036366
+emissionprobs	12	1	crispr-k562-gasperini_pval	1	0.003988068096363337
+emissionprobs	12	2	mpra-hepg2-ernst	0	0.969192045084216
+emissionprobs	12	2	mpra-hepg2-ernst	1	0.030807954915783944
+emissionprobs	12	3	mpra-hepg2-kheradpour_pval	0	0.9940032335209261
+emissionprobs	12	3	mpra-hepg2-kheradpour_pval	1	0.005996766479073951
+emissionprobs	12	4	mpra-k562-ernst	0	0.9841832714691285
+emissionprobs	12	4	mpra-k562-ernst	1	0.01581672853087143
+emissionprobs	12	5	mpra-k562-kheradpour_pval	0	0.9956883403870936
+emissionprobs	12	5	mpra-k562-kheradpour_pval	1	0.004311659612906389
+emissionprobs	12	6	starr-a549-white	0	0.6370964285624474
+emissionprobs	12	6	starr-a549-white	1	0.36290357143755253
+emissionprobs	12	7	starr-gm-wang	0	0.9942895665294811
+emissionprobs	12	7	starr-gm-wang	1	0.005710433470518925
+emissionprobs	12	8	starr-helaS3-muerdter	0	0.9844860953827476
+emissionprobs	12	8	starr-helaS3-muerdter	1	0.015513904617252513
+emissionprobs	12	9	starr-hepg2-white	0	0.462972821042911
+emissionprobs	12	9	starr-hepg2-white	1	0.537027178957089
+emissionprobs	12	10	starr-k562-white	0	0.4216504045767868
+emissionprobs	12	10	starr-k562-white	1	0.5783495954232132
+emissionprobs	13	0	crispr-k562-fulco	0	0.024754707711435852
+emissionprobs	13	0	crispr-k562-fulco	1	0.9752452922885642
+emissionprobs	13	1	crispr-k562-gasperini_pval	0	0.8072054005919348
+emissionprobs	13	1	crispr-k562-gasperini_pval	1	0.19279459940806515
+emissionprobs	13	2	mpra-hepg2-ernst	0	0.8120642501936614
+emissionprobs	13	2	mpra-hepg2-ernst	1	0.18793574980633868
+emissionprobs	13	3	mpra-hepg2-kheradpour_pval	0	0.8833535163742822
+emissionprobs	13	3	mpra-hepg2-kheradpour_pval	1	0.11664648362571782
+emissionprobs	13	4	mpra-k562-ernst	0	0.7409965706853594
+emissionprobs	13	4	mpra-k562-ernst	1	0.25900342931464065
+emissionprobs	13	5	mpra-k562-kheradpour_pval	0	0.9669175112701089
+emissionprobs	13	5	mpra-k562-kheradpour_pval	1	0.03308248872989109
+emissionprobs	13	6	starr-a549-white	0	0.4541353957325039
+emissionprobs	13	6	starr-a549-white	1	0.5458646042674962
+emissionprobs	13	7	starr-gm-wang	0	0.8700835933119898
+emissionprobs	13	7	starr-gm-wang	1	0.1299164066880101
+emissionprobs	13	8	starr-helaS3-muerdter	0	0.15323801519854827
+emissionprobs	13	8	starr-helaS3-muerdter	1	0.8467619848014518
+emissionprobs	13	9	starr-hepg2-white	0	0.3111370955473367
+emissionprobs	13	9	starr-hepg2-white	1	0.6888629044526633
+emissionprobs	13	10	starr-k562-white	0	0.1987815270170753
+emissionprobs	13	10	starr-k562-white	1	0.8012184729829247
+emissionprobs	14	0	crispr-k562-fulco	0	0.9878504114258647
+emissionprobs	14	0	crispr-k562-fulco	1	0.012149588574135325
+emissionprobs	14	1	crispr-k562-gasperini_pval	0	0.9481637333660821
+emissionprobs	14	1	crispr-k562-gasperini_pval	1	0.051836266633917875
+emissionprobs	14	2	mpra-hepg2-ernst	0	0.9763487440613091
+emissionprobs	14	2	mpra-hepg2-ernst	1	0.023651255938690892
+emissionprobs	14	3	mpra-hepg2-kheradpour_pval	0	0.9768704498240789
+emissionprobs	14	3	mpra-hepg2-kheradpour_pval	1	0.023129550175921106
+emissionprobs	14	4	mpra-k562-ernst	0	0.9813162305467001
+emissionprobs	14	4	mpra-k562-ernst	1	0.01868376945329992
+emissionprobs	14	5	mpra-k562-kheradpour_pval	0	0.9823312917475391
+emissionprobs	14	5	mpra-k562-kheradpour_pval	1	0.01766870825246089
+emissionprobs	14	6	starr-a549-white	0	0.8006250419652596
+emissionprobs	14	6	starr-a549-white	1	0.1993749580347404
+emissionprobs	14	7	starr-gm-wang	0	0.9454202970199073
+emissionprobs	14	7	starr-gm-wang	1	0.054579702980092695
+emissionprobs	14	8	starr-helaS3-muerdter	0	0.0627046208925416
+emissionprobs	14	8	starr-helaS3-muerdter	1	0.9372953791074583
+emissionprobs	14	9	starr-hepg2-white	0	0.8074070094695814
+emissionprobs	14	9	starr-hepg2-white	1	0.19259299053041856
+emissionprobs	14	10	starr-k562-white	0	0.8889601867675812
+emissionprobs	14	10	starr-k562-white	1	0.11103981323241895
+emissionprobs	15	0	crispr-k562-fulco	0	0.9537223489804739
+emissionprobs	15	0	crispr-k562-fulco	1	0.046277651019525995
+emissionprobs	15	1	crispr-k562-gasperini_pval	0	0.8550574052937958
+emissionprobs	15	1	crispr-k562-gasperini_pval	1	0.14494259470620408
+emissionprobs	15	2	mpra-hepg2-ernst	0	0.6278501022188192
+emissionprobs	15	2	mpra-hepg2-ernst	1	0.37214989778118074
+emissionprobs	15	3	mpra-hepg2-kheradpour_pval	0	0.8899860361896851
+emissionprobs	15	3	mpra-hepg2-kheradpour_pval	1	0.11001396381031496
+emissionprobs	15	4	mpra-k562-ernst	0	0.019549322932560065
+emissionprobs	15	4	mpra-k562-ernst	1	0.9804506770674399
+emissionprobs	15	5	mpra-k562-kheradpour_pval	0	0.9948321448934934
+emissionprobs	15	5	mpra-k562-kheradpour_pval	1	0.005167855106506629
+emissionprobs	15	6	starr-a549-white	0	0.9263376887520639
+emissionprobs	15	6	starr-a549-white	1	0.07366231124793607
+emissionprobs	15	7	starr-gm-wang	0	0.9988778562201512
+emissionprobs	15	7	starr-gm-wang	1	0.0011221437798487194
+emissionprobs	15	8	starr-helaS3-muerdter	0	0.8511521204440556
+emissionprobs	15	8	starr-helaS3-muerdter	1	0.14884787955594436
+emissionprobs	15	9	starr-hepg2-white	0	0.9849846079832929
+emissionprobs	15	9	starr-hepg2-white	1	0.015015392016707103
+emissionprobs	15	10	starr-k562-white	0	0.9542098772837655
+emissionprobs	15	10	starr-k562-white	1	0.04579012271623447
