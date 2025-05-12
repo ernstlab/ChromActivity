@@ -1,5 +1,9 @@
 # ChromActivity 
 
+> [!TIP]
+> The ChromActivity paper is now published in Genome Biology! Read the paper here (open access):
+> https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03579-6
+
 ChromActivity is a computational framework for the annotation of regulatory activity genomewide, through integration of data from epigenomic maps and multiple functional characterization assays. 
 
 We generate three types of annotations:
@@ -71,3 +75,7 @@ chromactivity train_chromscorehmm --num_states 15 --track_dir "tracks/" --out-di
 
 - `vendored/ChromHMM/ChromHMM.jar`: https://ernstlab.biolchem.ucla.edu/ChromHMM
 - `data/external/hg19.chrom.sizes`: https://hgdownload.soe.ucsc.edu/goldenPath/hg19/bigZips/hg19.chrom.sizes
+
+## References
+
+> Dincer, T., Ernst, J. ChromActivity: integrative epigenomic and functional characterization assay based annotation of regulatory activity across diverse human cell types. Genome Biol 26, 123 (2025). https://doi.org/10.1186/s13059-025-03579-6  
